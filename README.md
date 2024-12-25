@@ -1,0 +1,1 @@
+This repository contains a simple example of a common syntax error in Tcl: an incorrectly formatted `if` statement.  The `bug.tcl` file demonstrates the error, while `bugSolution.tcl` shows the corrected code.  This is a helpful illustration for those new to Tcl or as a quick reference for debugging.
